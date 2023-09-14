@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "rtl-nieuws",
+                "name": "RTL Nieuws"
+            },
+            "author": "RTL Nieuws",
+            "title": "OM eist 12 jaar cel tegen Pakistaan voor oproep tot moord Geert Wilders",
+            "description": "Het Openbaar Ministerie eist twaalf jaar gevangenisstraf tegen Khalid Latif, die in 2018 zou hebben opgeroepen om Geert Wilders te vermoorden. Dat deed de 37-jarige Pakistaanse cricketspeler in reactie op een door Wilders bedachte cartoonwedstrijd over de pro…",
+            "url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5404550/geert-wilders-rechtbank-beveiliging-went-nooit",
+            "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/content/images/2023/08/29/ANP-476636418.jpg?itok=G_BhFImn&offsetX=95&offsetY=0&cropWidth=927&cropHeight=522&width=2048&height=1152&impolicy=dynamic",
+            "publishedAt": "2023-08-29T12:48:17+00:00",
+            "content": "\"Men mag het niet eens zijn geweest met het voornemen van Wilders om de cartoonwedstrijd te houden, maar het oproepen tot een moord om de cartoonwedstrijd te verhinderen en een geldbedrag uitloven om… [+490 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Abid Hussain",
+            "title": "‘Indian hostility’ looms over Asia Cup’s stripped-back hosts Pakistan",
+            "description": "Pakistan gets set to host just four of 13 matches of the regional cricket tournament after India’s refusal to tour.",
+            "url": "http://www.aljazeera.com/sports/2023/8/29/cricket-pakistan-asia-cup-2023-hosts-india",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP22296405469137-1693310448.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-29T12:41:01Z",
+            "content": "Islamabad, Pakistan When Pakistan last hosted the Asia Cup in 2008, Imran Khan was a political novice, Narendra Modi was still banned from travelling to the United States, Indias cricket team was mak… [+6482 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
